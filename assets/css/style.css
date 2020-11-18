@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;0,800;0,900;1,200;1,300;1,600;1,700;1,800;1,900&display=swap');/*headings*/
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@0;1&display=swap'); /* quote*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap'); /*text*/
+
+body{
+  padding:2rem;
+  margin:0;  
+}
+
+#logo{
+    font-family:'Oswald', sans-serif;
+    color: rgb(84, 76, 134);
+    height: 40px;
+    float: left;
+    font-style: normal; 
+}
+
+#menu{
+    float:right;
+    letter-spacing:2px;
+}
+ul {
+    margin-top: 5px;
+}
+
+ul >li {
+    font-size:20px;
+
+}
+
